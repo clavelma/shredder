@@ -132,7 +132,7 @@ Who is sponsoring your project?
 
  #### 3. History
    * Initiators of the original project: Guillaume Marin
-   * URL of other related project: [Precious plasitc] (https://preciousplastic.com)
+   * URL of other related project: [Precious plasitc](https://preciousplastic.com)
  #### 4. Documentation structure
    * Section 1: ...
    * Section 2: ...
