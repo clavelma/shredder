@@ -134,10 +134,14 @@ Who is sponsoring your project?
    * Initiators of the original project: Guillaume Marin
    * URL of other related project: [Precious plasitc](https://preciousplastic.com)
  #### 4. Documentation structure
-   * Section 1: ...
-   * Section 2: ...
-   * Section 3: ...
-   * ...
+   * Section 1: Introduction
+   * Section 2: Specification
+   * Section 3: Design
+   * Section 4: Manufacturing
+   * Section 5: Assembly
+   * Section 6: Use
+   * Section 7: Maintenance
+   * Section 8: Disposal
  #### 5. Required skills
    * ...
  #### 6. Contribution process
