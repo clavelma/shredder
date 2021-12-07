@@ -143,7 +143,7 @@ Who is sponsoring your project?
    * Section 7: Maintenance
    * Section 8: Disposal
  #### 5. Required skills
-   * ...
+   * The project echopen need basic knowledge about the 
  #### 6. Contribution process
    * ...
  #### 7. Lasgt update
