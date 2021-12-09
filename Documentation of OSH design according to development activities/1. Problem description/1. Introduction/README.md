@@ -157,10 +157,7 @@ Who is sponsoring your project?
        * https://www.linkedin.com/in/maxime-clavel-36a43a218
    * GASTON Louis {louis.gaston@grenoble-inp.org}
        * Role in the project: Data manager
-       * link to personal web page: ...
    * LEGARDEUR William {william.legardeur@grenoble-inp.org}
-       * Role in the project: ...
-       * link to personal web page: ...
    * LENNE Margaux {margaux.lenne@grenoble-inp.org}
        * Role in the project: Organisation, gantt chart manager
        * https://www.linkedin.com/in/margaux-lenne-27981b208/
