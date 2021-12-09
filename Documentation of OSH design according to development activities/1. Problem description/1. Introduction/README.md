@@ -143,11 +143,11 @@ Who is sponsoring your project?
    * Section 7: Maintenance
    * Section 8: Disposal
  #### 5. Required skills
-   * The project echopen need basic knowledge about the 
+   * The project echopen need basic knowledge about electrical connection, ...
  #### 6. Contribution process
    * ...
- #### 7. Lasgt update
-   * 08/12/2021, 13h, addition of information, Margaux
+ #### 7. Last update
+   * 09/12/2021, 14h, addition of information, Margaux
  #### 8. Project team
    * BIANCIOTTO Tom {tom.bianciotto@grenoble-inp.org}
        * Role in the project: Project manager
