@@ -167,8 +167,18 @@ Who is sponsoring your project?
    * WILLIE Nsongurua Innocent {nsongurua-innocent.willie@grenoble-inp.org}
        * link to personal web page: https://www.linkedin.com/in/nsongurua-willie-3b72781b5
 #### 9. Licence
-   * ... 
+   * GPLv3
 #### 10. Sponsors and partners
-   * URL: ...
-   * Name: Engineering school Grenoble INP Génie Industriel
-   * E-mail address: ...
+   * URL: https://genie-industriel.grenoble-inp.fr/
+   * Name: Grenoble INP Génie Industriel
+   * Address: 46 avenue Félix Viallet F-38031 Grenoble cedex 01
+   
+   * URL: https://fabmstic.imag.fr/
+   * Name: FabMSTIC
+   * E-mail address: fabmstic@univ-grenoble-alpes.fr
+   * Address: 740 rue de la Piscine, 38400 Saint-Martin-d’Hères
+
+   * URL: https://lacasemate.fr/
+   * Name: La Casemate
+   * E-mail address: accueil@lacasemate.fr
+   * Address: 2 place Saint-Laurent 38000 Grenoble
