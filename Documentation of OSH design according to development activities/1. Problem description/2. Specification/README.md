@@ -61,9 +61,26 @@ Example XYZ Cargo ADD-ONS
 
 ### Template of external interfaces
    
-   * Stakeholder name 1
-       * Flow 1
-       * ...
+   * Clients
+       * needs
+   * Users
+       * use
+       * repaire
+   * Partners
+       * data
+       * technical support
+   * Media
+       * reproduce
+       * data
+   * European standards
+       * laws
+       * norms
+       * security
+   * Environment
+       * supply
+       * adapt
+       * reuse
+       * technical support
   
  ![Image of stakeholder diagram for template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/External%20interfaces%20for%20template.jpg)
   
