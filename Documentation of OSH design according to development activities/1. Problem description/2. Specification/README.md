@@ -22,35 +22,6 @@
   <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholder%20diagram%20for%20template.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholder%20diagram%20for%20template.png">Edit in diagrams.net</a>
   
 ## **2. External interfaces**
-<details>
-  <summary>Click to see the guideline!</summary>
-  
-- **Definition:**  *External interfaces are interactions between the product and the stakeholders.*
-
-- **Comments:**
-  - *An interface is made of a port (in, out, or in-out)*
-  - *An interface is made of a flow (matter, energy, or signal)*
-</details>
- <details>
-  <summary>Click to see the example!</summary>
-   
- ```
-What does contain the minimum documentation of the external interfaces? 
-
-Example XYZ Cargo ADD-ONS
-
-  - Identify the interactions between food producer and the product including 
-    - Specify needs
-    - Uses
-    
-  - Identify the interactions between maker and the product inculding  
-    - repair
-      - unmount 
-    - make
-    - reproduce
-    - modify
-  - ...
-  ```
 
 *The image below shows the external interfaces of  ADD-ONS of XYZ cargo as a graph*
 
