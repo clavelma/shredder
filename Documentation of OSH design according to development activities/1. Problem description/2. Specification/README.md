@@ -113,7 +113,6 @@
 
 ## 4. Constraint *(Synonyms: non function requirement)*
 
-
 ### Template of constraints
   
    * The shredder should be dismantled for recycling purposes
@@ -122,43 +121,19 @@
    * Open source community should be able to reproduce it
    * User should be able to use it in security
    * Ginova should be able to handle the maintenance
-   * The shredder should be incorporating in Ginova 
+   * The shredder should be incorporating in Ginova
+   * The shredder should be able to shred the plastic from the collect
+   * The shredder should be built using the maximum of the existing prototype
+   * The shredder assembly and user should be accessible and open source
+   * The shredder should be realised thanks to the RAFU network facility
+   * The shredder should be able to go forward and to go backward
      
   
 ## **5. Requirement**
-
-<details>
-  <summary>Click to see the guideline!</summary>
-  
-- **Definition:** *A requirement is a formal statement that specifies when condition C is true, property P of object O is actual and its value shall belong  to domain D.*
-
-- **Comments:**
-  -  *The minimum set of independent requirements can completely characterize the needs of the product in the functional domain.*
-  -  *Functional requirements describe qualitatively the system functions or tasks to be performed in operation.* 
-  -  *Requirement can state as follows: The [stakeholder] need [Property] [object] [Action verb]  at [Condition]* 
- </details>
- 
- <details>
-  <summary>Click to see the example!</summary>
-  
-  ```
-  Example of the functional requirement that ADD-ONS of XYZ cargo provides for the food producers, as a stakeholder, to preserve the quality of food.
- 
-  In this example, we assumed a refrigerator on the ADD-ONS could help the food producers to cool down and preserve the temperature of food. 
-  
-  So, we defined some  functional requirements (FR) based on this assumption that consist:
- 
-    - FR1: To maintain the quality of food, the food producer needs to main the material at cold temperature (between 3 °C and 10 °C) for short-term preservation (3h) or long-term preservation (24h).
-    - FR2: ADD-ONS shall fix the internal ADD-ONS temperature for 7 °C.
-    - FR3: To create a cold ambient in the cooling down system, the ADD-ONS shall compress the low temperature and pressured gas to start the cooling cycle.
-    - FR4: the cooling down system shall control the pressure of exit hot gas 
-    - FR5: the hot and pressured exit gas needs to meet the cooler external ambient temperature to become a liquid.
-    - ...
-    
-  ```
- </details>
  
  ### Template of requirements
     
-   * Requirement 1
-   * ...
+   * FR1: The shredder need to work on a standard 220V 50Hz EU plug
+   * FR2: The shredder need to respect the 1m50x1mx1m50 maximum volume
+   * FR3: The shredder need to shredd plastic into chips with a surface inferior to 1cm²
+   * FR4: The shredder need to stop in case of emergency in less than 3 secondes
