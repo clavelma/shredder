@@ -46,7 +46,11 @@
 ### Template of stakeholders
   
    * Clients
-   * ...
+   * Users
+   * Partners
+   * Media
+   * European standards
+   * Environment
   
   ![Image of stakeholder diagram for template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Stakeholder%20diagram%20for%20template.jpg)
   
