@@ -97,9 +97,19 @@
 
 ### Template of services
   
-   * Services to stakeholder 1
-       * Service 1.1
-       * ...
+   * Services to clients
+       * The shredder shall enable the ABS&PLA plastic from 3D printing scraps to be reduce into big or medium chips
+       * The shredder shall enable the thermoformable plastic from thermoformable plastic plate scraps to be reduce into big or medium chips
+   * Services to users
+       * The shredder shall enable the plastic from user's personal collect to be reduce into big or medium chips
+   * Services to partners
+       *  The shredder shall enable the plastic from partner's personal collect to be reduce into big or medium chips
+   * Services to media
+       * x
+   * Services to european standards
+       * x 
+   * Services to environment
+       * x 
 
 ## 4. Constraint *(Synonyms: non function requirement)*
 <details>
