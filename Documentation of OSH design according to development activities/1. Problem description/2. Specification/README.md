@@ -112,40 +112,17 @@
        * x 
 
 ## 4. Constraint *(Synonyms: non function requirement)*
-<details>
-  <summary>Click to see the guideline!</summary>
-  
-- **Definition:**  *A constraint is a choice that makes certain designs "not allowed" or inappropriate for their intended use.*
 
-- **Comments:**
-
-  - *The constraint is a restriction, limit, or regulation imposed on a product.*
-  - *There are two kinds of constraints: input constraints and system constraints.* 
-    - *Input constraints are imposed as part of the design specifications.*
-    - *System constraints are constraints imposed by the system in which the design solution must function.*
- </details> 
- 
- <details>
-  <summary>Click to see the example!</summary>
-  
-   ```
-  What does contain the minimum documentation of the constraints?
-  
-  Example XYZ Cargo ADD-ONS, constraints for maker of ADD-ONS
-  
-   - User should be able to dismantle ADD-ONS with a maximum one wrench and one screwdriver 
-   - Users should be able to customize the modules of ADD-ONS to fit their use. 
-   - The ADD-ONS should enable the users to do the assembly of components in a short time (10 minutes) and the maker shall select the resistance material for using ADD-ONS in different weather conditions. 
-   - ADD-ONS should be dismantled for recycling purposes.
-   - ...
-
-  ```
-</details>
 
 ### Template of constraints
   
-   * Constraint 1
-   * ...
+   * The shredder should be dismantled for recycling purposes
+   * The shredder should be realise and operate in a low tech philosophy
+   * The shredder should follow the european standards
+   * Open source community should be able to reproduce it
+   * User should be able to use it in security
+   * Ginova should be able to handle the maintenance
+   * The shredder should be incorporating in Ginova 
      
   
 ## **5. Requirement**
