@@ -9,3 +9,4 @@
 3. [Design](https://github.com/OPEN-NEXT/WP2.3-Guidelines-and-templates-for-documentation-of-OSH-design-reuse/tree/main/Documentation%20of%20OSH%20design%20according%20to%20development%20activities/1.%20Problem%20description/2.%20Specification)
 
  *You can use the same templates of documentation blocks of idea contribution.*
+![stakeholders_shredder drawio](https://user-images.githubusercontent.com/95290174/152962782-9d6e7559-c2ed-4df3-81ca-f9b17dd93821.png)
